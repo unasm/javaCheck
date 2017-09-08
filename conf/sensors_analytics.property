@@ -1,0 +1,14 @@
+sensors_analytics.customer_id=jiedaibao-standalone
+sensors_analytics.dead_time=2017-12-28
+sensors_analytics.expire_time=2017-12-21
+sensors_analytics.install_time=2017-03-21
+sensors_analytics.log_dir=/data/sa_standalone/logs
+sensors_analytics.max_core_num=48
+sensors_analytics.max_memory_gb=-1
+sensors_analytics.max_message_count=300000000
+sensors_analytics.max_node_num=1
+sensors_analytics.max_project_num=2
+sensors_analytics.remind_time=2017-12-14
+sensors_analytics.runtime_dir=/data/sa_standalone/runtime
+zookeeper.connect=devdata1.jiedaibao.sa:2182
+zookeeper.rootPath=/sensors_analytics/
